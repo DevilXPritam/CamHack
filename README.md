@@ -6,18 +6,18 @@
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E071F7&background=000000&width=435&lines=A+passionate+frontend+developer;from+India" alt="Typing SVG" /></a>
 
-[![Run on Repl.it](https://repl.it/badge/github/mehraj6303/Camera-location-tracking-mehraj)](https://repl.it/github/mehraj6303/Camera-location-tracking-mehraj)
+[![Run on Repl.it](https://repl.it/badge/github/DevilXPritam/CamHack.git)](https://repl.it/github/DevilXPritam/CamHack.git)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
-- 🔭 I’m currently working on **mobile hack📲**
+- 🔭 I’m currently working on **DEVIL PRITAM INDIAN HACKER 📲**
 
-- 💬 Ask me about **ANDROID**
+- 💬 Ask me about **CAMERA HACKING TOOL**
 
-- 📫 How to reach me **mehraj1010@gmail.com**
-> [contact on WhatsApp](https://wa.me/qr/V3EMUZ6RQSPUM1)
+- 📫 How to reach me **hackepritam@gmail.com**
+> [contact on WhatsApp](https://wa.me/qr/3M3HNJVIG22QB1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mr_m_e_h_r_a_j_1_0_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_m_e_h_r_a_j_1_0_1" height="30" width="40" /></a>
