@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on **DEVIL PRITAM INDIAN HACKER 📲**
+- 🔭 I’m currently working on **DEVIL PRITAM  📲**
 
 - 💬 Ask me about **CAMERA HACKING TOOL**
 
@@ -20,7 +20,7 @@
 > [contact on WhatsApp](https://wa.me/qr/3M3HNJVIG22QB1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mr_m_e_h_r_a_j_1_0_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_m_e_h_r_a_j_1_0_1" height="30" width="40" /></a>
+<a href="http://pritamtolls.shop/shop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_m_e_h_r_a_j_1_0_1" height="30" width="40" /></a>
 </p>
 <b><details><summary>Available Features</summary><br>
 	
